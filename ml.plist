@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
     <key>items</key>
-    <array>
-        <dict>
-    		<key>assets</key>
+	<array>
+		<dict>
+			<key>assets</key>
 			<array>
 				<dict>
 					<key>kind</key>
@@ -13,17 +13,33 @@
 					<key>url</key>
 					<string>http://huimcall.com/ml/ml.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://huimcall.com/ml/ml.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://huimcall.com/ml/ml.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>b.com.huim.call</string>
+				<string>com.huim.call</string>
 				<key>bundle-version</key>
 				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>米聊</string>
+				<string>米聊下载中心</string>
 				<key>title</key>
 				<string>米聊</string>
 			</dict>
