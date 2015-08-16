@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://huimcall.com/ml/ml.ipa</string>
+					<string>http://huimcall.com/jyt/jyt.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://huimcall.com/ml/ml.png</string>
+					<string>http://huimcall.com/jyt/jyt.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://huimcall.com/ml/ml.png</string>
+					<string>http://huimcall.com/jyt/jyt.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,9 +39,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>米聊下载中心</string>
+				<string>捷易通下载中心</string>
 				<key>title</key>
-				<string>米聊</string>
+				<string>捷易通</string>
 			</dict>
 		</dict>
 	</array>
