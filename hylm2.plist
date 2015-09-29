@@ -2,8 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
+	<key>items</key>
+	<array>
 		<dict>
 			<key>assets</key>
 			<array>
@@ -17,13 +17,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>b.com.huim.call</string>
+				<string>im.pre.beta.app2</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>联盟会员</string>
 				<key>title</key>
 				<string>联盟会员</string>
 			</dict>
