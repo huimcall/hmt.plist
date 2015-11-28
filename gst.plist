@@ -11,7 +11,23 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://appxz8.cn/gst/gst.ipa</string>
+					<string>http://www.appxz8.cn/gst/gst.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -22,6 +38,8 @@
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>功生堂</string>
 				<key>title</key>
 				<string>功生堂</string>
 			</dict>
